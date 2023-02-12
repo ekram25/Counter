@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+text-align: center;
+justify-content: center;
+ text-align: center;
+background-color: rgb(247, 176, 176);
+
+}
+.counter{
+    width: 100%;
+    height:300px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(247, 176, 176);
+
+font-family: sans-serif;
+}
+.counter h1{
+    font-size: 60px;
+}
+
+
+.value{
+    font-size: 60px;
+    color: rgb(144, 35, 245);
+    
+
+}
+
